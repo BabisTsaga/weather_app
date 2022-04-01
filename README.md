@@ -1,3 +1,6 @@
+#How to use
+Enter a zip code from a state of USA and watch the weather forecast for 5 days. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
