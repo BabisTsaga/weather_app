@@ -1,4 +1,4 @@
-#How to use
+# How to use
 Enter a zip code from a state of USA and watch the weather forecast for 5 days. 
 
 # Getting Started with Create React App
